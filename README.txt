@@ -7,5 +7,5 @@ Reardon, S. F., Ho, A. D., Shear, B. R., Fahle, E. M., Kalogrides, D., & DiSalvo
 Each data point represents a single school district.
 
 Variables:
-inc50all = median income in the school district
-mn_avg_ol = average standardized test score in the district
+med_inc = median income in the school district
+avg_test_score = average standardized test score in the district
